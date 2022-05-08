@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(#f857a6,#ff5858);
+}
+
+h1{
+    font-family: cursive;
+}
+
+h2{
+    width:1000px
+}
+
+#camera , #result
+
+{
+
+  border: 2px dashed black;
+
+  width: 350px;
+
+  height: 300px;
+
+}
